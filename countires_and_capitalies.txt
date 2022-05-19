@@ -1,0 +1,3 @@
+Poland - ('Warsawa', 37.89)
+Germany - ('Berlin', 83.02)
+Slovakia - ('bratysla', 5.45)
